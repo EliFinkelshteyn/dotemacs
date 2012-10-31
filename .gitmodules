@@ -64,3 +64,6 @@
 [submodule "vendor/php-mode"]
 	path = vendor/php-mode
 	url = git://github.com/ejmr/php-mode.git
+[submodule "vendor/js2-mode"]
+	path = vendor/js2-mode
+	url = git://github.com/mooz/js2-mode.git
